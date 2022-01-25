@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siva-krish45
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning html and css and javascript
 - 💞️ I’m looking to collaborate with people who are interested in web development.
 - 📫 reach me on <a href="https://twitter.com/2023Siva">twitter</a>.
 
